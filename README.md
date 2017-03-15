@@ -1,6 +1,6 @@
 ##### eu2aa.github.io
 ###  EU2AA
-| Home Page Vladimir Chepyzhenko
+| Home Page Vladimir Chepyzhenko | 
 | ------------- | -------------  ------------- | ------------- |
 | 21_home.jpg Home position | 22_EU2AA.jpg |  |  |
 | 24_Ant.jpg Field position | 25_Work.jpg Working and Measuring Area |26_Friends.jpg Friends  |  |
