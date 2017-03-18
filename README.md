@@ -4,4 +4,4 @@
 | ![Field position](photo/24.jpg) Загородная позиция | ![Working and Measuring Area](photo/25.jpg) Рабочее место измерений | ![Friends](photo/26.jpg) Друзья  |
 | ![Antennas](photo/27.jpg) Антенны |  |![RM1_AO-21_RS14](photo/28.jpg) RM1_AO-21_RS14 |
 
-Любительская аппаратура
+[Любительская аппаратура](TRCVR_1296_144.md)
