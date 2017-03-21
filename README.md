@@ -5,15 +5,3 @@
 | ![Antennas](photo/27.jpg) Антенны |  |[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) RM1_AO-21_RS14 |
 
 [Любительская аппаратура](AmRig/README.md)
-
-![Любительская аппаратура](photo/E_AmRig.jpg) Любительская аппаратура
-
-[Трансвертер 1296/144МГц](AmRig/TRCVR_1296_144.md)
-
-[Термостатированный кварцевый генератор 96МГц](AmRig/TXCO.md)
-
-[Файлы](AmRig/FILES)
-
-[Фильтры](AmRig/FILTERS)
-
-[PDF](AmRig/PDF)
