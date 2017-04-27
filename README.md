@@ -5,4 +5,4 @@
 | ![Antennas](photo/27.jpg) Антенны |  |[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) RM1_AO-21_RS14 |
 
 [Любительская аппаратура](AmRig.md)   
-![mailto](photo/mailto2.png) Почта
+![mailto](photo/mailto.png) Почта
