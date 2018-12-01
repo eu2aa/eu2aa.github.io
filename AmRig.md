@@ -8,6 +8,8 @@
 
 [Антенный Переключатель на P-I-N-диодах 1296МГц 300Вт](AmRig_AP.md)
 
+[PHASE-4](AmRig_P4.md)
+
 [Файлы](AmRig_FILES.md)
 
 [Фильтры](AmRig_FILTERS.md)
