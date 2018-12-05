@@ -6,7 +6,7 @@
 
 [PA](PA.md)
 
-[Фильтры](FILTERS.md)
+[Фильтры](FIL.md)
 
 [PHASE-4](P4.md)
 
