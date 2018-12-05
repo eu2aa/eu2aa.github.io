@@ -14,7 +14,7 @@
 
 [Файлы](FILES.md)
 
-[PDF](PDFS.md)
+[PDF](PDF.md)
 
 | Home Page | Vladimir | Chepyzhenko |
 | ------------- | ------------- | ------------- |
