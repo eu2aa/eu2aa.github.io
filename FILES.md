@@ -6,9 +6,6 @@
 # Архивные ZIP-файлы
 [ZIP](ZIP.md)
  
-# Схемы в pcad2006
-[Sch](Sch.md)
-
 # Печатные платы в pcad2006
 [Pcb](Pcb.md)
 
