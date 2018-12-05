@@ -8,7 +8,7 @@
 
 [Спиральный фильтр на 1296МГц](https://beta.observablehq.com/@eu2aa/mtk1300-20#gr)
 
-[Кавитационный фильтр на 2302МГц](https://beta.observablehq.com/@eu2aa/kf2320#gr)
+[Кавитационный фильтр на 2320МГц](https://beta.observablehq.com/@eu2aa/kf2320#gr)
 
 # Фильтры
 
