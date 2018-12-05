@@ -13,3 +13,4 @@
 [Фильтры](_FILTERS.md)
 
 [PDF](_PDFS.md)
+|[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) RM1_AO-21_RS14 |
