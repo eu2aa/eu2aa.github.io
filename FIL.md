@@ -12,5 +12,5 @@
 
 # Фильтры
 
-[Спиральный фильтр на 1296МГц](https://github.com/eu2aa/eu2aa.github.io/blob/master/pdfs/EU2AA_Helical_1296.pdf)
+[Спиральный фильтр на 1296МГц](https://eu2aa.com/pdfs/EU2AA_Helical_1296.pdf)
 
