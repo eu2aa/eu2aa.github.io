@@ -18,7 +18,7 @@
 
 | Home Page | Vladimir | Chepyzhenko |
 | ------------- | ------------- | ------------- |
-|![QSL](photo/22.jpg) QSL| | |
+|![QSL](photo/22.jpg) |Direct QSL: Vladimir Chepyzhenko UL.Vilenskaja, 37-29, MOLODECHNO 222306 Belarus | |
 | ![mailto](photo/mailto3.png) Почта | |[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) RM1_AO-21_RS14 |
 
   
