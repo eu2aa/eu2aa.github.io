@@ -8,6 +8,10 @@
 
 [Антенны](ANT.md)
 
+[Файлы](_FILES.md)
+
+[PDF](PDF.md)
+
 | Home Page | Vladimir | Chepyzhenko |
 | ------------- | ------------- | ------------- |
 |![QSL](photo/22.jpg) QSL| | |
