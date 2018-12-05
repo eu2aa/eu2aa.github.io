@@ -6,7 +6,7 @@
 
 [PHASE-4](P4.md)
 
-[Антенны](ANT.md)
+[Антенны](Ant.md)
 
 [Файлы](_FILES.md)
 
