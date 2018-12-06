@@ -12,7 +12,7 @@
 
 |![ ](photo/0Ant1.jpg) | [Антенны](Ant.md) |
 
-|![ ](photo/0Ant.jpg) | [Файлы](FILES.md) |
+|![ ](photo/0LK2.jpg) | [Файлы](FILES.md) |
 
 |![ ](photo/0LK1.jpg) | [PDF](PDF.md) |
 
