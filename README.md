@@ -1,20 +1,20 @@
 # Любительские конструкции
 
-|![](photo/PA1.jpg) | [Любительская аппаратура](AmRig.md) |
+|![](photo/0LK.jpg) | [Любительская аппаратура](AmRig.md) |
 
-|![](photo/PA1.jpg) | [TXCO](TXCO.md) |
+|![](photo/0TXCO2.jpg) | [TXCO](TXCO.md) |
 
-|![](photo/PA1.jpg) | [PA](PA.md) |
+|![](photo/0PA.jpg) | [PA](PA.md) |
 
-|![](photo/PA1.jpg) | [Фильтры](FIL.md) |
+|![](photo/0Lil.jpg) | [Фильтры](FIL.md) |
 
-|![](photo/PA1.jpg) | [PHASE-4](P4.md) |
+|![](photo/0P4.jpg) | [PHASE-4](P4.md) |
 
-|![](photo/PA1.jpg) | [Антенны](Ant.md) |
+|![](photo/0Ant.jpg) | [Антенны](Ant.md) |
 
-|![](photo/PA1.jpg) | [Файлы](FILES.md) |
+|![](photo/0Ant1.jpg) | [Файлы](FILES.md) |
 
-|![](photo/PA1.jpg) | [PDF](PDF.md) |
+|![](photo/0LK1.jpg) | [PDF](PDF.md) |
 
 | Home Page | Vladimir | Chepyzhenko |
 | ------------- | ------------- | ------------- |
