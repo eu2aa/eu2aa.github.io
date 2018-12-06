@@ -10,9 +10,9 @@
 
 |![ ](photo/0P4.jpg) | [PHASE-4](P4.md) |
 
-|![ ](photo/0Ant.jpg) | [Антенны](Ant.md) |
+|![ ](photo/0Ant1.jpg) | [Антенны](Ant.md) |
 
-|![ ](photo/0Ant1.jpg) | [Файлы](FILES.md) |
+|![ ](photo/0Ant.jpg) | [Файлы](FILES.md) |
 
 |![ ](photo/0LK1.jpg) | [PDF](PDF.md) |
 
