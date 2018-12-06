@@ -2,19 +2,19 @@
 
 |![](photo/PA1.jpg) | [Любительская аппаратура](AmRig.md) |
 
-[TXCO](TXCO.md)
+|![](photo/PA1.jpg) | [TXCO](TXCO.md)
 
-[PA](PA.md)
+|![](photo/PA1.jpg) | [PA](PA.md)
 
-[Фильтры](FIL.md)
+|![](photo/PA1.jpg) | [Фильтры](FIL.md)
 
-[PHASE-4](P4.md)
+|![](photo/PA1.jpg) | [PHASE-4](P4.md)
 
-[Антенны](Ant.md)
+|![](photo/PA1.jpg) | [Антенны](Ant.md)
 
-[Файлы](FILES.md)
+|![](photo/PA1.jpg) | [Файлы](FILES.md)
 
-[PDF](PDF.md)
+|![](photo/PA1.jpg) | [PDF](PDF.md)
 
 | Home Page | Vladimir | Chepyzhenko |
 | ------------- | ------------- | ------------- |
