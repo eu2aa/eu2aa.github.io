@@ -5,3 +5,5 @@
 [Антенный Переключатель на P-I-N-диодах 1296МГц 300Вт](AP.md)
 
 [Усилитель мощности 2,4ГГц +42dBm](P4_PA.md)
+
+[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) [ RM1_AO-21_RS14 ](http://eu2aa.qrz.ru)
