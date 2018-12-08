@@ -14,4 +14,4 @@
 
 |[![ ](photo/0LK3.jpg)](https://eu2aa.com/PDF.html) | [PDF](https://eu2aa.com/PDF.html) |
 
-[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) [ RM1_AO-21_RS14 ](http://eu2aa.qrz.ru) |
+[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru/rm1.html) [ RM1_AO-21_RS14 ](http://eu2aa.qrz.ru/rm1.html) |
