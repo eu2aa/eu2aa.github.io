@@ -1,8 +1,8 @@
 # Любительские конструкции
 
-|[![ ](photo/0LK.jpg)](AmRig.md) | [Любительская аппаратура](AmRig.md) |
+|[![ ](photo/0LK.jpg)](https://eu2aa.com/AmRig.html) | [Любительская аппаратура](AmRig.md) |
 
-|[![ ](photo/0TXCO2.jpg)](TXCO.md) | [TXCO](TXCO.md) |
+|[![ ](photo/0TXCO2.jpg)](https://eu2aa.com/TXCO.html) | [TXCO](TXCO.md) |
 
 |[![ ](photo/0PA.jpg)](PA.md) | [PA](PA.md) |
 
