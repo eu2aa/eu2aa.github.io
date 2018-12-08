@@ -1,22 +1,20 @@
 # Любительские конструкции
 
-|![ ](photo/0LK.jpg) | [Любительская аппаратура](AmRig.md) |
+|[![ ](photo/0LK.jpg)](AmRig.md) | [Любительская аппаратура](AmRig.md) |
 
-|![ ](photo/0TXCO2.jpg) | [TXCO](TXCO.md) |
+|[![ ](photo/0TXCO2.jpg)](TXCO.md) | [TXCO](TXCO.md) |
 
-|![ ](photo/0PA.jpg) | [PA](PA.md) |
+|[![ ](photo/0PA.jpg)](PA.md) | [PA](PA.md) |
 
-|![ ](photo/0Fil.jpg) | [Фильтры](FIL.md) |
+|[![ ](photo/0Fil.jpg)](FIL.md) | [Фильтры](FIL.md) |
 
-|![ ](photo/0P4.jpg) | [PHASE-4](P4.md) |
+|[![ ](photo/0P4.jpg)](P4.md) | [PHASE-4](P4.md) |
 
-|![ ](photo/0Ant1.jpg) | [Антенны](Ant.md) |
+|[![ ](photo/0Ant1.jpg)](Ant.md) | [Антенны](Ant.md) |
 
-|![ ](photo/0LK2.jpg) | [Файлы](FILES.md) |
+|[![ ](photo/0LK2.jpg)](FILES.md) | [Файлы](FILES.md) |
 
 |[![ ](photo/0LK1.jpg)](PDF.md) | [PDF](PDF.md) |
-
-[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) [ RM1_AO-21_RS14 ](http://eu2aa.qrz.ru)
 
 | Home Page | Vladimir | Chepyzhenko |
 | ------------- | ------------- | ------------- |
