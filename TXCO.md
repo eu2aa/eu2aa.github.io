@@ -6,4 +6,4 @@
 
 [Термостатированный кварцевый генератор 112,6МГц](TXCO_112.md)
 
-[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru) [ RM1_AO-21_RS14 ](http://eu2aa.qrz.ru)
+[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru/rs1.html) [ RM1_AO-21_RS14 ](http://eu2aa.qrz.ru/rs1.html)
