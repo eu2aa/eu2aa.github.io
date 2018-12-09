@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| [![][photo/0LK.jpg]][AmRig.md] | [Любительская аппаратура](AmRig.md) |
+| [![](photo/0LK.jpg)][AmRig.md] | [Любительская аппаратура](AmRig.md) |
 | [![ ](photo/0TXCO2.jpg)](https://eu2aa.com/TXCO.html) | [TXCO](https://eu2aa.com/TXCO.html) |
 | [![ ](photo/0PA.jpg)](https://eu2aa.com/PA.html) | [PA](https://eu2aa.com/PA.html) |
 | [![ ](photo/0Fil.jpg)](https://eu2aa.com/FIL.html) | [Фильтры](https://eu2aa.com/FIL.html) |
