@@ -1,6 +1,6 @@
 # Любительские конструкции
 
-|[![ ](photo/0LK.jpg)](https://eu2aa.com/AmRig.html) | [Любительская аппаратура](https://eu2aa.com/AmRig.html) |
+|[![ ](photo/0LK.jpg)](AmRig.md) | [Любительская аппаратура](AmRig.md) |
 
 |[![ ](photo/0TXCO2.jpg)](https://eu2aa.com/TXCO.html) | [TXCO](https://eu2aa.com/TXCO.html) |
 
