@@ -8,7 +8,7 @@ title: Любительские конструкции
 [Любительская аппаратура](AmRig.md)<br>
 ![Любительская аппаратура](photo/0LK.jpg)
 
-
+[Фильтры](https://beta.observablehq.com/collection/@eu2aa/n)
 
 | | |
 |---|---|
