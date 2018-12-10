@@ -5,3 +5,8 @@ markdown: kramdown
 theme: minima
 
 github_username: eu2aa
+
+defaults:
+  -
+    values:
+      layout: "home"
