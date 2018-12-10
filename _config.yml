@@ -1,2 +1,5 @@
-theme: jekyll-theme-minima
+theme: minima
 title: EU2AA
+author: Vladimir Chepyzhenko
+
+github_username: eu2aa
