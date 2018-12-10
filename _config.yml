@@ -1,5 +1,7 @@
-markdown: kramdown
 title: EU2AA
 author: Vladimir Chepyzhenko
+
+markdown: kramdown
+theme: minima
 
 github_username: eu2aa
