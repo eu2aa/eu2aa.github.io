@@ -5,7 +5,7 @@ title: Любительские конструкции
 
 ## Любительские конструкции
 
-[Любительская аппаратура](AmRig.md)<br>
+[Любительская аппаратура](https://beta.observablehq.com/@eu2aa?tab=collections)<br>
 ![Любительская аппаратура](photo/0LK.jpg)
 
 [Фильтры](https://beta.observablehq.com/collection/@eu2aa/n)
