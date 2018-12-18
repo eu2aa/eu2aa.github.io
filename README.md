@@ -1,7 +1,9 @@
 
 ## Любительские конструкции
 
-[![юбительская аппаратура](photo/0LK.jpg)](https://beta.observablehq.com/@eu2aa)
+[![Любительская аппаратура](photo/0LK.jpg)](https://beta.observablehq.com/@eu2aa)
+
+Проекты 2016 года
 
 | Home Page | Vladimir | Chepyzhenko |
 | ------------- | ------------- | ------------- |
