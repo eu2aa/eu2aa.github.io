@@ -1,6 +1,6 @@
 ![Любительская аппаратура](photo/E_AmRig.jpg)
 
-|[![ ](photo/01296.jpg)](https://eu2aa.com/1296_144.html) | [Трансвертер 1296/144МГц](https://eu2aa.com/1296_144.html)|
+|[![ ](photo/01296.jpg)](https://eu2aa.com/1296_144.html) | [Трансвертер 1296/144МГц 2016 год](https://eu2aa.com/1296_144.html)|
 
 |[![ ](photo/012961.jpg)](https://eu2aa.com/pdfs/1296_v2.pdf) | [Усовершенствованная схема трансвертера 1296/144МГц](https://eu2aa.com/pdfs/1296_v2.pdf) |
 
