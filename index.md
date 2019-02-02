@@ -12,11 +12,3 @@
 [![Любительская аппаратура](photo/0LK.jpg)](https://beta.observablehq.com/@eu2aa) | (https://beta.observablehq.com/@eu2aa) |
 
 |[![Проекты 2016 год ](photo/0LK1.jpg)](https://eu2aa.com/AmRig.html) | [Проекты 2016 года](https://eu2aa.com/AmRig.html) |
-
-| | |
-|---|---|
-
-| [![ ](photo/0LK2.jpg)](https://eu2aa.com/files.md) | [Файлы](https://eu2aa.com/files.md) |
-
-| [![ ](photo/0LK1.jpg)](https://eu2aa.com/pdfs.md) | [PDF](https://eu2aa.com/pdfs.md) |
-
