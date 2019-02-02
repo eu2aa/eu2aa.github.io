@@ -1,7 +1,7 @@
 | Home Page | Vladimir | Chepyzhenko | 
 | ------------- | ------------- | ------------- |
-|![QSL](photo/22.jpg) | |![mailto](photo/mailto3.png) Почта  |
-[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru/rm1.html) [ RM1_AO-21_RS14 ](http://eu2aa.qrz.ru/rm1.html) | | Direct QSL: Vladimir Chepyzhenko, ul.Vilenskaja, 37-29, MOLODECHNO 222306 Belarus |
+|![QSL](photo/22.jpg) | |![mailto](photo/mailto3.png) |
+[![RM1_AO-21_RS14](photo/28.jpg)](http://eu2aa.qrz.ru/rm1.html) [   RM1_AO-21_RS14 ](http://eu2aa.qrz.ru/rm1.html) | | Direct QSL: Vladimir Chepyzhenko, ul.Vilenskaja, 37-29, MOLODECHNO 222306 Belarus |
 
 ## Любительские конструкции
 
