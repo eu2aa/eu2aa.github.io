@@ -5,6 +5,6 @@
 
 ## Любительские конструкции
 
-[![Любительская аппаратура](photo/0LK.jpg)](https://beta.observablehq.com/@eu2aa)
+[![Любительская аппаратура](photo/0LK.jpg)](https://beta.observablehq.com/@eu2aa) | (https://beta.observablehq.com/@eu2aa) |
 
 |[![Проекты 2016 год ](photo/0LK1.jpg)](https://eu2aa.com/AmRig.html) | [Проекты 2016 года](https://eu2aa.com/AmRig.html) |
