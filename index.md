@@ -7,7 +7,7 @@
 
 [Любительская аппаратура](https://beta.observablehq.com/@eu2aa?tab=collections)<br>
 
-![Любительская аппаратура](photo/0LK4.jpg)
+![Любительская аппаратура](photo/0LK2.jpg)
 
 [![Любительская аппаратура](photo/0LK.jpg)](https://beta.observablehq.com/@eu2aa) | (https://beta.observablehq.com/@eu2aa) |
 
