@@ -18,5 +18,5 @@
 
 | [![ ](photo/0LK2.jpg)](https://eu2aa.com/files.md) | [Файлы](https://eu2aa.com/files.md) |
 
-| [![ ](photo/0LK1.jpg)](https://eu2aa.com/pdfs.md) | [PDF](https://eu2aa.com/pdfsF.md) |
+| [![ ](photo/0LK1.jpg)](https://eu2aa.com/pdfs.md) | [PDF](https://eu2aa.com/pdfs.md) |
 
