@@ -7,7 +7,7 @@
 
 [Любительская аппаратура](https://beta.observablehq.com/@eu2aa?tab=collections)<br>
 
-![Любительская аппаратура](photo/0LK.jpg)
+![Любительская аппаратура](photo/0LK4.jpg)
 
 [![Любительская аппаратура](photo/0LK.jpg)](https://beta.observablehq.com/@eu2aa) | (https://beta.observablehq.com/@eu2aa) |
 
@@ -16,7 +16,7 @@
 | | |
 |---|---|
 
-| [![ ](photo/0LK2.jpg)](https://eu2aa.com/files.html) | [Файлы](https://eu2aa.com/files.html) |
+| [![ ](photo/0LK2.jpg)](https://eu2aa.com/files.md) | [Файлы](https://eu2aa.com/files.md) |
 
-| [![ ](photo/0LK1.jpg)](https://eu2aa.com/pdfs.html) | [PDF](https://eu2aa.com/pdfsF.html) |
+| [![ ](photo/0LK1.jpg)](https://eu2aa.com/pdfs.md) | [PDF](https://eu2aa.com/pdfsF.md) |
 
